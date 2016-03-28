@@ -7,6 +7,9 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
 import com.uulookingfor.ics.client.config.IcsClientConfigHolder;
 import com.uulookingfor.ics.client.curator.IcsCuratorClient;
 
+/**
+ * @author suxiong.sx 
+ */
 public class DefaultIcsCuratorClient implements IcsCuratorClient{
 	
 	private static CuratorFramework curatorClient;

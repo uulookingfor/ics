@@ -6,6 +6,10 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+
+/**
+ * @author suxiong.sx 
+ */
 @ToString
 public class IcsResult<T> implements Serializable{
 	

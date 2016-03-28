@@ -1,5 +1,8 @@
 package com.uulookingfor.ics.client.domain;
 
+/**
+ * @author suxiong.sx 
+ */
 public interface IcsClientConstants {
 	
 	public static final String configFilePath = "/config/config.properties";

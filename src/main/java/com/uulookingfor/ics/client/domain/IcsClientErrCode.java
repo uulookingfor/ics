@@ -2,6 +2,9 @@ package com.uulookingfor.ics.client.domain;
 
 import lombok.Getter;
 
+/**
+ * @author suxiong.sx 
+ */
 public enum IcsClientErrCode {
 	
 	U_NULLSTAT_AFTER_PUT("U_NULLSTAT_AFTER_PUT", "config exists already dataId=%s  groupId=%s"),

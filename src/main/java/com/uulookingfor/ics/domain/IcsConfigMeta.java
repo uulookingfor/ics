@@ -5,6 +5,9 @@ import java.io.Serializable;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * @author suxiong.sx 
+ */
 public class IcsConfigMeta implements Serializable{
 
 	private static final long serialVersionUID = 1L;

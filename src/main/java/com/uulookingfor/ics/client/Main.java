@@ -11,6 +11,9 @@ import com.uulookingfor.ics.client.impl.DefaultIcsClient;
 import com.uulookingfor.ics.domain.IcsConfig;
 import com.uulookingfor.ics.domain.IcsListener;
 
+/**
+ * @author suxiong.sx 
+ */
 public class Main implements IcsClientContext{
 	
 	public static void main(String[] args) throws Exception{

@@ -3,6 +3,9 @@ package com.uulookingfor.ics.client.config;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * @author suxiong.sx 
+ */
 public class IcsClientConfigHolder {
 	
 	@Getter private static IcsClientConfigHolder inst = new IcsClientConfigHolder();

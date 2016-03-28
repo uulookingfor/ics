@@ -5,6 +5,9 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * @author suxiong.sx 
+ */
 public class Md5Util {
 
 	public static final String ENCODE = "UTF-8";

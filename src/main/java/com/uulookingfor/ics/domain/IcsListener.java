@@ -1,5 +1,8 @@
 package com.uulookingfor.ics.domain;
 
+/**
+ * @author suxiong.sx 
+ */
 public interface IcsListener {
 	
 	IcsSubscribeInfo subscribe(); 

@@ -30,6 +30,9 @@ import com.uulookingfor.ics.domain.IcsListener.IcsSubscribeInfo;
 import com.uulookingfor.ics.domain.IcsResult;
 import com.uulookingfor.ics.util.Md5Util;
 
+/**
+ * @author suxiong.sx 
+ */
 public class DefaultIcsClient implements IcsClient, IcsClientContext, IcsClientConstants{
 
 	public synchronized void init() throws Exception{

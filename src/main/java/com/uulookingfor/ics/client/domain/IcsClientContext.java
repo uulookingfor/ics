@@ -6,6 +6,9 @@ import com.uulookingfor.ics.client.curator.impl.DefaultIcsCuratorClient;
 import com.uulookingfor.ics.serialize.Serializer;
 import com.uulookingfor.ics.serialize.impl.ProtoStuffSerializer;
 
+/**
+ * @author suxiong.sx 
+ */
 public interface IcsClientContext {
 
 	IcsClientConfig icsClinetConfig = new IcsClientConfig();

@@ -12,6 +12,9 @@ import org.apache.commons.beanutils.BeanUtils;
 
 import com.uulookingfor.ics.client.domain.IcsClientConstants;
 
+/**
+ * @author suxiong.sx 
+ */
 public class IcsClientConfig implements IcsClientConstants{
 
 	private boolean inited = false;

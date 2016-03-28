@@ -4,6 +4,9 @@ import com.uulookingfor.ics.domain.IcsConfig;
 import com.uulookingfor.ics.domain.IcsListener;
 import com.uulookingfor.ics.domain.IcsResult;
 
+/**
+ * @author suxiong.sx 
+ */
 public interface IcsClient{
 	
 	void init() throws Exception;
